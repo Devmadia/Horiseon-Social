@@ -152,6 +152,7 @@ header p {
 }
 /* END OF BLOCKS STYLE */
 
+/* START OF FOOTER STYLE */
 .footer {
     padding: 30px;
     clear: both;
@@ -162,3 +163,4 @@ header p {
 .footer h2 {
     font-size: 20px;
 }
+/* END OF FOOTER STYLE */
