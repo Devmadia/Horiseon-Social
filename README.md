@@ -14,6 +14,8 @@
 - consolidation and reorganization of CSS elements
 - consistent comments included for increased readability
 
+[Working Site for Challenge 1](https://devmadia.github.io/Horiseon-Social/)
+
 ### Additional Files Created
 
 Website snapshot and company logo introduced to the repo for quick demonstration purposes.
